@@ -6,7 +6,7 @@ categories: github git
 ---
 # 1. git 명령어 모음
 
-  ![post-thumbnail](C:/apps/ml/yun329.github.io/test.png)
+  ![test](https://user-images.githubusercontent.com/101091764/167056991-f29be9bc-56d5-4cfc-acfb-c1dad4f1e596.png)
 
 ### **Git 설치 (for ubuntu)
 
